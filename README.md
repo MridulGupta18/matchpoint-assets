@@ -1,6 +1,6 @@
 # MatchPoint Live assets
 
-Read by the MatchPoint Live app on every laptop, every 10 minutes and at start-up.
+Read by the MatchPoint Live app on every laptop, every 4 minutes and at start-up (or instantly with the app's Sync button).
 
 - **`sponsors/`** — every image here rotates in the sponsor-logo corner of the stream.
   Add or delete a logo on github.com (drag and drop) and every rig picks it up; nothing to
